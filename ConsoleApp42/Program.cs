@@ -11,6 +11,7 @@ namespace ConsoleApp42
         static void Main(string[] args)
         {
             Console.WriteLine("Want to commit code to Git");
+            Console.WriteLine("Added new line");
 
         }
     }
